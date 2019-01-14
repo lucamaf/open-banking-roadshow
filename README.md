@@ -52,6 +52,8 @@ This is a workshop designed for approximately 2 hours delivery. The focus is on 
 ## Lab instructions
 ### Practical Part 1
 #### Integr8ly
+Login into the integr8ly environment main page
+![alt](https://link)
 #### Fuse Online
 #### 3scale
 ### Checkpoint
