@@ -53,7 +53,7 @@ This is a workshop designed for approximately 2 hours delivery. The focus is on 
 ### Practical Part 1
 #### Integr8ly
 Login into the integr8ly environment main page
-![alt](https://link)
+![Main page](https://github.com/lucamaf/open-banking-roadshow/blob/master/images/integr8ly.png)
 #### Fuse Online
 #### 3scale
 ### Checkpoint
