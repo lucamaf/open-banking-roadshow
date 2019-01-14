@@ -34,7 +34,15 @@ Everybody needs:
 ----------
 
 ### Environment:
-#### TODO
+Environment reachable here: https://tutorial-web-app-webapp.apps.openbanking-b7ca.openshiftworkshop.com
+
+End Users credentials:
+user[1..100] / openshift
+
+3scale dedicated instances here:
+https://userX-admin.apps.openbanking-b7ca.openshiftworkshop.com
+access using username and password
+
 ----------
 
 ### Duration & format
