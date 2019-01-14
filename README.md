@@ -54,7 +54,13 @@ This is a workshop designed for approximately 2 hours delivery. The focus is on 
 #### Integr8ly
 Login into the integr8ly environment main page
 ![Main page](https://github.com/lucamaf/open-banking-roadshow/blob/master/images/integr8ly.png)
+
+Explain why we chose integr8ly environment following the presentation you can find in the links. Explain how it provides out of the box integration between products but it doesn’t change the base product. How you can still install this type of environment starting from a “clean” openshift installation.
+Quick recap of the platforms or products installed and their main functionality.
+
 #### Fuse Online
+Then start by opening Red Hat Fuse Online as a standard user
+
 #### 3scale
 ### Checkpoint
 #### RH SSO & 3scale
