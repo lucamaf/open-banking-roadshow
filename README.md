@@ -41,7 +41,11 @@ user[1..100] / openshift
 
 3scale dedicated instances here:
 https://userX-admin.apps.openbanking-b7ca.openshiftworkshop.com
+
 access using username and password
+
+dedicated gateway here:
+https://userX.amp.apps.openbanking-b7ca.openshiftworkshop.com
 
 ----------
 
