@@ -34,18 +34,18 @@ Everybody needs:
 ----------
 
 ### Environment:
-Environment reachable here: https://tutorial-web-app-webapp.apps.openbanking-b7ca.openshiftworkshop.com
+Environment reachable here: https://tutorial-web-app-webapp.apps.openbanking-4f6a.openshiftworkshop.com/ 
 
 End Users credentials:
 user[1..100] / openshift
 
 3scale dedicated instances here:
-https://userX-admin.apps.openbanking-b7ca.openshiftworkshop.com
+https://userX-admin.apps.openbanking-4f6a.openshiftworkshop.com
 
 access using username and password
 
 dedicated gateway here:
-https://userX.amp.apps.openbanking-b7ca.openshiftworkshop.com
+https://userX.amp.apps.openbanking-4f6a.openshiftworkshop.com
 
 ----------
 
